@@ -1,0 +1,5 @@
+print() - służy do wyświetlania danych
+input() - służy do pobierania danych od użytkownika
+type() - zwraca typ obiektu
+max()/min() - zwraca największy/najmniejszy element np. listy
+str() - służy do konwertowania innych typów dnaych na string
